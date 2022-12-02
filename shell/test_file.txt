@@ -1,0 +1,14 @@
+cd ..
+ls
+sleep 2
+echo Finished!
+
+/bin/ls
+echo hello
+
+echo echo this
+echo another echo
+!history
+pwd&
+echo 987
+echo success!
